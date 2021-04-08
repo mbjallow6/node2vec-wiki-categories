@@ -3,8 +3,11 @@ Application of node2vec algorithm on Stanford Wikipedia Network of Top Categorie
 
 | Filename | Description |
 | --- | --- |
-| [Data Exploration.ipynb](Data Exploration.ipynb) | Data Preprocessing and Exploration notebook |
-| [Analysis and Results.ipynb](Analysis and Results.ipynb) | Analysis and Reporting notebook |
+| [Data Exploration.ipynb] (./Data Exploration.ipynb) | Data Preprocessing and Exploration notebook |
+| [Analysis and Results.ipynb](./Analysis and Results.ipynb) | Analysis and Reporting notebook |
+
+- [Data Exploration.ipynb] (./Data Exploration.ipynb)
+- [Data Exploration.ipynb] (Data Exploration.ipynb)
 
 ###  Dataset - [SNAP Wikipedia Network of Top Categories](https://snap.stanford.edu/data/wiki-topcats.html)
 This is a web graph of Wikipedia hyperlinks where every web page is considered as an article. Every article has a page name and a category associated with it. These categories serve as ground truths for the various communities existing in the network. 
