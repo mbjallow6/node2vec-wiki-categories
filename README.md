@@ -1,5 +1,5 @@
 # Representation Learning on Wikipedia Categories
-Application of node2vec algorithm on Stanford Wikipedia Network of Top Categories dataset.
+Application of node2vec algorithm on Stanford Wikipedia Network of Top Categories dataset
 
 | Filename | Description |
 | --- | --- |
